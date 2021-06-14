@@ -4,8 +4,6 @@ weight: 2
 header_menu: true
 ---
 
-We are open to lots of different ideas for how to get you involved with beekeeping!
-
 ---
 
 ## Consulting
