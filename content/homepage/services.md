@@ -20,3 +20,9 @@ Do you want to support bees on your property but not necessarily be involved in 
 ## Hive Relocation/Removal
 
 [Send me an email]({{< ref "/#contact" >}} "Contact Us") if a swarm of honeybees has moved in on your property. It is helpful if you can send pictures and describe where the hive is located. We do not help with removing wasps, hornets, or yellowjackets, sorry. But if you have honeybees that you would like moved into a beehive, let's chat!
+
+---
+
+## Mite Treatment
+
+We can help you monitor [varroa mites](https://en.wikipedia.org/wiki/Varroa_destructor) in your hives, recommend treatment options, and also perform [oxalic acid vapor](https://carolinahoneybees.com/oxalic-acid-vaporization/) treatments as needed. We have all the equipment needed for both monitoring and vaporization. [Contact us]({{< ref "/#contact" >}} "Contact us") to discuss pricing and timing.
